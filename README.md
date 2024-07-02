@@ -1,4 +1,4 @@
-![logo](https://github.com/ANUJGUPTA007/ANUJGUPTA007/blob/main/ANUJ%20GUPTA%20(1).png)
+![logo](https://github.com/ANUJGUPTA007/ANUJGUPTA007/blob/main/1000101919.jpg)
 <h1 align="center">Hi 👋, I'm ANUJ GUPTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" alt="Anuj_Image" />
